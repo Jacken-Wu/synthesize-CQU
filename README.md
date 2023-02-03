@@ -1,11 +1,12 @@
 # synthesize-CQU
 
 ## 目录
+
 * back_mask /*背景图片，遮罩的图片*
 * balls /*11个CQU球贴图*
 * rua_cqu /*挼CQU的动图*
 * sound /*声音文件*
-  * moemoesweeprer.mp3 /*一个安卓扫雷游戏的bgm，但是那个游戏的作者好像并不是很懂扫雷的玩法*
+  * moemoesweeprer.mp3 /*一个安卓扫雷游戏的bgm,(其实是MusMus上的公开免费音乐素材Pops up the mind wings)*
   * sound.wav /*合成CQU的音效*
 * ARIALN.TTF /*字体*
 * cqu.ico /*图标*
@@ -15,5 +16,6 @@
 * school.py /*python源文件*
 
 ## 我想说的
+
 1. 好像有bug，但是我不想改
 2. 我线代挂科了
